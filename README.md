@@ -4,3 +4,5 @@
 #### [359. Logger Rate Limiter(HashMap)(EASY)](https://github.com/hungrylz/leetcode/blob/master/359.%20Logger%20Rate%20Limiter.md)
 #### [1047. Remove All Adjacent Duplicates In String(Stack/Two Pointers)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.md)
 #### [509. Fibonacci Number(Recursion/DP)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/509.%20Fibonacci%20Number.md)
+#### [168. Excel Sheet Column Title(Math/Hash)(EASY)](https://github.com/hungrylz/leetcode/blob/master/168.%20Excel%20Sheet%20Column%20Title.md)
+#### [532. K-diff Pairs in an Array(HashMap/Sort + Two pointers)](https://github.com/hungrylz/leetcode/blob/master/532.%20K-diff%20Pairs%20in%20an%20Array.md)
