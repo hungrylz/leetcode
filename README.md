@@ -7,3 +7,4 @@
 #### [168. Excel Sheet Column Title(Math/Hash)(EASY)](https://github.com/hungrylz/leetcode/blob/master/168.%20Excel%20Sheet%20Column%20Title.md)
 #### [532. K-diff Pairs in an Array(HashMap/Sort + Two pointers)](https://github.com/hungrylz/leetcode/blob/master/532.%20K-diff%20Pairs%20in%20an%20Array.md)
 #### [278. First Bad Version(Binary Search)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/278.%20First%20Bad%20Version.md)
+#### [167. Two Sum II - Input array is sorted(Two Pointers/HashMap)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)
