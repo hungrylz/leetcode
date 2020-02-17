@@ -9,3 +9,4 @@
 #### [278. First Bad Version(Binary Search)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/278.%20First%20Bad%20Version.md)
 #### [167. Two Sum II - Input array is sorted(Two Pointers/HashMap)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)
 #### [160. Intersection of Two Linked Lists(HashSet/Two Pointers)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/160.%20Intersection%20of%20Two%20Linked%20Lists.md)
+#### [977. Squares of a Sorted Array](https://github.com/hungrylz/leetcode/blob/master/977.%20Squares%20of%20a%20Sorted%20Array.md)
