@@ -6,4 +6,4 @@
 #### [509. Fibonacci Number(Recursion/DP)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/509.%20Fibonacci%20Number.md)
 #### [168. Excel Sheet Column Title(Math/Hash)(EASY)](https://github.com/hungrylz/leetcode/blob/master/168.%20Excel%20Sheet%20Column%20Title.md)
 #### [532. K-diff Pairs in an Array(HashMap/Sort + Two pointers)](https://github.com/hungrylz/leetcode/blob/master/532.%20K-diff%20Pairs%20in%20an%20Array.md)
-#### [278. First Bad Version(Binary Search)](https://github.com/hungrylz/leetcode/blob/master/278.%20First%20Bad%20Version.md)
+#### [278. First Bad Version(Binary Search)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/278.%20First%20Bad%20Version.md)
