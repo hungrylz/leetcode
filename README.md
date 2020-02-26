@@ -16,3 +16,4 @@
 #### [243. Shortest Word Distance(Brute Force/One-pass(record recent index))/(EASY)](https://github.com/hungrylz/leetcode/blob/master/243.%20Shortest%20Word%20Distance.md)
 #### [557. Reverse Words in a String III(two pointers)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/557.%20Reverse%20Words%20in%20a%20String%20III.md)
 #### [28. Implement strStr()(KMP)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/28.%20Implement%20strStr().md)
+#### [350. Intersection of Two Arrays II(sort+two pointer/HashMap)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/350.%20Intersection%20of%20Two%20Arrays%20II.md)
