@@ -18,3 +18,4 @@
 #### [28. Implement strStr()(KMP)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/28.%20Implement%20strStr().md)
 #### [350. Intersection of Two Arrays II(sort+two pointer/HashMap)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/350.%20Intersection%20of%20Two%20Arrays%20II.md)
 #### [1086. High Five(Sort/HashMap + PriorityQueue)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1086.%20High%20Five.md)
+#### [104. Maximum Depth of Binary Tree(DFS/BFS)(Recursion/Iteration)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
