@@ -10,6 +10,7 @@
 #### [205. Isomorphic Strings(HashMap/ASCII)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/205.%20Isomorphic%20Strings.md)
 #### [226. Invert Binary Tree(Binary Tree(Recursion/iteration))/(EASY)](https://github.com/hungrylz/leetcode/blob/master/226.%20Invert%20Binary%20Tree.md)
 #### [243. Shortest Word Distance(Brute Force/One-pass(record recent index))/(EASY)](https://github.com/hungrylz/leetcode/blob/master/243.%20Shortest%20Word%20Distance.md)
+#### [257. Binary Tree Paths(DFS/BFS)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/257.%20Binary%20Tree%20Paths.md)
 #### [278. First Bad Version(Binary Search)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/278.%20First%20Bad%20Version.md)
 #### [350. Intersection of Two Arrays II(sort+two pointer/HashMap)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/350.%20Intersection%20of%20Two%20Arrays%20II.md)
 #### [359. Logger Rate Limiter(HashMap)(EASY)](https://github.com/hungrylz/leetcode/blob/master/359.%20Logger%20Rate%20Limiter.md)
