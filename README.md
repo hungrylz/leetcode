@@ -21,6 +21,7 @@
 #### [299. Bulls and Cows(HashMap/Bucket)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/299.%20Bulls%20and%20Cows.md)
 #### [350. Intersection of Two Arrays II(sort+two pointer/HashMap)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/350.%20Intersection%20of%20Two%20Arrays%20II.md)
 #### [359. Logger Rate Limiter(HashMap)(EASY)](https://github.com/hungrylz/leetcode/blob/master/359.%20Logger%20Rate%20Limiter.md)
+#### [437. Path Sum III(BruteForce+DFS/HashMap+DFS)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/437.%20Path%20Sum%20III.md)
 #### [463. Island Perimeter(Brute Force/Math/DFS)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/463.%20Island%20Perimeter.md)
 #### [509. Fibonacci Number(Recursion/DP)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/509.%20Fibonacci%20Number.md)
 #### [532. K-diff Pairs in an Array(HashMap/Sort + Two pointers)](https://github.com/hungrylz/leetcode/blob/master/532.%20K-diff%20Pairs%20in%20an%20Array.md)
