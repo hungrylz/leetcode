@@ -26,6 +26,7 @@
 #### [509. Fibonacci Number(Recursion/DP)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/509.%20Fibonacci%20Number.md)
 #### [532. K-diff Pairs in an Array(HashMap/Sort + Two pointers)](https://github.com/hungrylz/leetcode/blob/master/532.%20K-diff%20Pairs%20in%20an%20Array.md)
 #### [557. Reverse Words in a String III(two pointers)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/557.%20Reverse%20Words%20in%20a%20String%20III.md)
+#### [605. Can Place Flowers(Scan)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/605.%20Can%20Place%20Flowers.md)
 #### [703. Kth Largest Element in a Stream(PriorityQueue/BST)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/703.%20Kth%20Largest%20Element%20in%20a%20Stream.md)
 #### [746. Min Cost Climbing Stairs(DP)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/746.%20Min%20Cost%20Climbing%20Stairs.md)
 #### [938. Range Sum of BST(DFS(Recursion/Iteration)/Traverse)(EASY))](https://github.com/hungrylz/leetcode/blob/master/938.%20Range%20Sum%20of%20BST.md)
@@ -33,3 +34,4 @@
 #### [1010. Pairs of Songs With Total Durations Divisible by 60(HashMap/BucketSort)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.md)
 #### [1047. Remove All Adjacent Duplicates In String(Stack/Two Pointers)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.md)
 #### [1086. High Five(Sort/HashMap + PriorityQueue)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1086.%20High%20Five.md)
+#### [1189. Maximum Number of Balloons(Scan)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1189.%20Maximum%20Number%20of%20Balloons.md)
