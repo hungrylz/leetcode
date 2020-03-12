@@ -14,6 +14,7 @@
 #### [171. Excel Sheet Column Number(ASCII)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/171.%20Excel%20Sheet%20Column%20Number.md)
 #### [189. Rotate Array(BruteForece/Cycle/Reverse)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/189.%20Rotate%20Array.md)
 #### [205. Isomorphic Strings(HashMap/ASCII)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/205.%20Isomorphic%20Strings.md)
+#### [217. Contains Duplicate(HashSet/Sort)/(EASY)](https://leetcode.com/problems/contains-duplicate/)
 #### [226. Invert Binary Tree(Binary Tree(Recursion/iteration))/(EASY)](https://github.com/hungrylz/leetcode/blob/master/226.%20Invert%20Binary%20Tree.md)
 #### [243. Shortest Word Distance(Brute Force/One-pass(record recent index))/(EASY)](https://github.com/hungrylz/leetcode/blob/master/243.%20Shortest%20Word%20Distance.md)
 #### [257. Binary Tree Paths(DFS/BFS)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/257.%20Binary%20Tree%20Paths.md)
