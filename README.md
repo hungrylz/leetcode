@@ -44,7 +44,7 @@
 #### [746. Min Cost Climbing Stairs(DP)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/746.%20Min%20Cost%20Climbing%20Stairs.md)
 #### [758. Bold Words in String(Brute Force)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/758.%20Bold%20Words%20in%20String.md)
 #### [771. Jewels and Stones(Bucket)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/771.%20Jewels%20and%20Stones.md)
-#### [796. Rotate String(String CHeck)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/796.%20Rotate%20String.md796. Rotate String(String CHeck)/(EASY))
+#### [796. Rotate String(String CHeck)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/796.%20Rotate%20String.md)
 #### [852. Peak Index in a Mountain Array(Binary Search)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md)
 #### [938. Range Sum of BST(DFS(Recursion/Iteration)/Traverse)(EASY))](https://github.com/hungrylz/leetcode/blob/master/938.%20Range%20Sum%20of%20BST.md)
 #### [977. Squares of a Sorted Array(Two Pointers/Sort)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/977.%20Squares%20of%20a%20Sorted%20Array.md)
