@@ -46,6 +46,7 @@
 #### [771. Jewels and Stones(Bucket)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/771.%20Jewels%20and%20Stones.md)
 #### [796. Rotate String(String CHeck)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/796.%20Rotate%20String.md)
 #### [852. Peak Index in a Mountain Array(Binary Search)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md)
+#### [905. Sort Array By Parity(Two Pointers/Brute Force)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/905.%20Sort%20Array%20By%20Parity.md)
 #### [938. Range Sum of BST(DFS(Recursion/Iteration)/Traverse)(EASY))](https://github.com/hungrylz/leetcode/blob/master/938.%20Range%20Sum%20of%20BST.md)
 #### [977. Squares of a Sorted Array(Two Pointers/Sort)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/977.%20Squares%20of%20a%20Sorted%20Array.md)
 #### [997. Find the Town Judge(Directed Graph/Two Arrays)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/997.%20Find%20the%20Town%20Judge.md)
@@ -56,3 +57,4 @@
 #### [1185. Day of the Week(Brute Force)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1185.%20Day%20of%20the%20Week.md)
 #### [1189. Maximum Number of Balloons(Scan)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1189.%20Maximum%20Number%20of%20Balloons.md)
 #### [1221. Split a String in Balanced Strings(Stack/Count)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1221.%20Split%20a%20String%20in%20Balanced%20Strings.md)
+#### [1281. Subtract the Product and Sum of Digits of an Integer(Straight Forward)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.md)
