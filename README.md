@@ -2,6 +2,7 @@
 
 #### [26. Remove Duplicates from Sorted Array(Two pointers)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 #### [28. Implement strStr()(KMP)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/28.%20Implement%20strStr().md)
+#### [43. Multiply Strings(Math)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/43.%20Multiply%20Strings.md)
 #### [45. Jump Game II(Brute Force/DP)/(HARD)](https://github.com/hungrylz/leetcode/blob/master/45.%20Jump%20Game%20II.md)
 #### [66. Plus One(EASY)](https://github.com/hungrylz/leetcode/blob/master/66.%20Plus%20One.md)
 #### [69. Sqrt(x)(Brute Force/Binary Search)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/69.%20Sqrt(x).md)
