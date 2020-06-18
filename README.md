@@ -32,6 +32,7 @@
 #### [299. Bulls and Cows(HashMap/Bucket)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/299.%20Bulls%20and%20Cows.md)
 #### [350. Intersection of Two Arrays II(sort+two pointer/HashMap)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/350.%20Intersection%20of%20Two%20Arrays%20II.md)
 #### [359. Logger Rate Limiter(HashMap)(EASY)](https://github.com/hungrylz/leetcode/blob/master/359.%20Logger%20Rate%20Limiter.md)
+#### [371. Sum of Two Integers(Bit Manipulation)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/371.%20Sum%20of%20Two%20Integers.md)
 #### [437. Path Sum III(BruteForce+DFS/HashMap+DFS)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/437.%20Path%20Sum%20III.md)
 #### [409. Longest Palindrome(ASCII)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/409.%20Longest%20Palindrome.md)
 #### [448. Find All Numbers Disappeared in an Array(HashMap/Mark)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)
