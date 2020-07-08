@@ -1,5 +1,6 @@
 # LEETCODE NOTEBOOK
 
+#### [2. Add Two Numbers(Math)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/2.%20Add%20Two%20Numbers.md)
 #### [3. Longest Substring Without Repeating Characters(Slide Window + HashMap(array))/(Medium)](https://github.com/hungrylz/leetcode/blob/master/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 #### [26. Remove Duplicates from Sorted Array(Two pointers)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 #### [28. Implement strStr()(KMP)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/28.%20Implement%20strStr().md)
@@ -55,6 +56,7 @@
 #### [605. Can Place Flowers(Scan)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/605.%20Can%20Place%20Flowers.md)
 #### [617. Merge Two Binary Trees(Recursion/Iteration)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/617.%20Merge%20Two%20Binary%20Trees.md)
 #### [653. Two Sum IV - Input is a BST(HashSet/Inorder)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.md)
+#### [665. Non-decreasing Array(Math Array)/(EASY)](https://leetcode.com/problems/non-decreasing-array/)
 #### [669. Trim a Binary Search Tree(Recursion)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/669.%20Trim%20a%20Binary%20Search%20Tree.md)
 #### [674. Longest Continuous Increasing Subsequence](https://github.com/hungrylz/leetcode/blob/master/674.%20Longest%20Continuous%20Increasing%20Subsequence.md)
 #### [686. Repeated String Match(String)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/686.%20Repeated%20String%20Match.md)
@@ -73,6 +75,7 @@
 #### [997. Find the Town Judge(Directed Graph/Two Arrays)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/997.%20Find%20the%20Town%20Judge.md)
 #### [1002. Find Common Characters(Map)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1002.%20Find%20Common%20Characters.md)
 #### [1010. Pairs of Songs With Total Durations Divisible by 60(HashMap/BucketSort)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.md)
+#### [1025. Divisor Game(Math)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1025.%20Divisor%20Game.md)
 #### [1047. Remove All Adjacent Duplicates In String(Stack/Two Pointers)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.md)
 #### [1071. Greatest Common Divisor of Strings(Math/Repeated String)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1071.%20Greatest%20Common%20Divisor%20of%20Strings.md)
 #### [1086. High Five(Sort/HashMap + PriorityQueue)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1086.%20High%20Five.md)
