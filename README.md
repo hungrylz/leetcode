@@ -5,6 +5,7 @@
 #### [5. Longest Palindromic Substring(Scan/DP)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/5.%20Longest%20Palindromic%20Substring.md)
 #### [15. 3Sum.md(Two pointers/HashSet)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/15.%203Sum.md)
 #### [26. Remove Duplicates from Sorted Array(Two pointers)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
+#### [22. Generate Parentheses(Backtracking/DP)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/22.%20Generate%20Parentheses.md)
 #### [28. Implement strStr()(KMP)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/28.%20Implement%20strStr().md)
 #### [43. Multiply Strings(Math)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/43.%20Multiply%20Strings.md)
 #### [45. Jump Game II(Brute Force/DP)/(HARD)](https://github.com/hungrylz/leetcode/blob/master/45.%20Jump%20Game%20II.md)
