@@ -84,6 +84,7 @@
 #### [383. Ransom Note(HashMap/BucketSort)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/383.%20Ransom%20Note.md)
 #### [393. UTF-8 Validation(String/Bit Manipulation)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/393.%20UTF-8%20Validation.md)
 #### [401. Binary Watch(Bit Manipulation)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/401.%20Binary%20Watch.md)
+#### [408. Valid Word Abbreviation(Two Pointers)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/408.%20Valid%20Word%20Abbreviation.md)
 #### [409. Longest Palindrome(ASCII)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/409.%20Longest%20Palindrome.md)
 #### [437. Path Sum III(BruteForce+DFS/HashMap+DFS)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/437.%20Path%20Sum%20III.md)
 #### [438. Find All Anagrams in a String(Array/HashMap)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
