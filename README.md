@@ -25,6 +25,7 @@
 #### [49. Group Anagrams(Sort/Prime)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/49.%20Group%20Anagrams.md)
 #### [50. Pow(x, n)(Math/Recursion/Iteartion)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/50.%20Pow(x%2C%20n).md)
 #### [54. Spiral Matrix(StraightForward Recursion/Iteration)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/54.%20Spiral%20Matrix.md)
+#### [55. Jump Game(DP+Greedy)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/55.%20Jump%20Game.md)
 #### [56. Merge Intervals(Sort)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/56.%20Merge%20Intervals.md)
 #### [64. Minimum Path Sum(DP/Recursion)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/64.%20Minimum%20Path%20Sum.md)
 #### [66. Plus One(EASY)](https://github.com/hungrylz/leetcode/blob/master/66.%20Plus%20One.md)
