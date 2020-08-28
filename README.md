@@ -179,4 +179,4 @@
 #### [1360. Number of Days Between Two Dates/(Easy)](https://github.com/hungrylz/leetcode/blob/master/1360.%20Number%20of%20Days%20Between%20Two%20Dates.md)
 #### [1365. How Many Numbers Are Smaller Than the Current Number(HashMap/Bucket)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.md)
 #### [1396. Design Underground System(Map+pair)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/1396.%20Design%20Underground%20System.md)
-#### [1480. Running Sum of 1d Array(StraightForward)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/1480.%20Running%20Sum%20of%201d%20Array.md)
+#### [1480. Running Sum of 1d Array(StraightForward)/(Easy)](https://github.com/hungrylz/leetcode/blob/master/1480.%20Running%20Sum%20of%201d%20Array.md)
