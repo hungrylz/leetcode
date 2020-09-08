@@ -118,7 +118,7 @@
 #### [496. Next Greater Element I(HashMap/Stack)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/496.%20Next%20Greater%20Element%20I.md)
 #### [509. Fibonacci Number(Recursion/DP)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/509.%20Fibonacci%20Number.md)
 #### [518. Coin Change 2(DP/BruteForce Recursion)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/518.%20Coin%20Change%202.md)
-#### [523. *Continuous Subarray Sum(BruteForce)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/523.%20Continuous%20Subarray%20Sum.md)
+#### [523. Continuous Subarray Sum(BruteForce/HashMap)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/523.%20Continuous%20Subarray%20Sum.md)
 #### [528. Random Pick with Weight(BinarySearch/BruteForce)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/528.%20Random%20Pick%20with%20Weight.md)
 #### [529. Minesweeper(DFS+BFS)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/529.%20Minesweeper.md)
 #### [532. K-diff Pairs in an Array(HashMap/Sort + Two pointers)](https://github.com/hungrylz/leetcode/blob/master/532.%20K-diff%20Pairs%20in%20an%20Array.md)
