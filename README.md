@@ -217,5 +217,6 @@
 #### [1413. Minimum Value to Get Positive Step by Step Sum(Math)/(Easy)](https://github.com/hungrylz/leetcode/blob/master/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.md)
 #### [1428. Leftmost Column with at Least a One(BinarySearch/Math)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/1428.%20Leftmost%20Column%20with%20at%20Least%20a%20One.md)
 #### [1431. Kids With the Greatest Number of Candies(Math)/(Easy)](https://github.com/hungrylz/leetcode/blob/master/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md)
+#### [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit(Heap/TreeMap/Deque)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit.md)
 #### [1470. Shuffle the Array(BruteForce/In-place)/(Easy)](https://github.com/hungrylz/leetcode/blob/master/1470.%20Shuffle%20the%20Array.md)
 #### [1480. Running Sum of 1d Array(StraightForward)/(Easy)](https://github.com/hungrylz/leetcode/blob/master/1480.%20Running%20Sum%20of%201d%20Array.md)
