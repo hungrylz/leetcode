@@ -190,6 +190,7 @@
 #### [1042. Flower Planting With No Adjacent(Graph/Math)/(Easy)](https://github.com/hungrylz/leetcode/blob/master/1042.%20Flower%20Planting%20With%20No%20Adjacent.md)
 #### [1047. Remove All Adjacent Duplicates In String(Stack/Two Pointers)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.md)
 #### [1048. Longest String Chain(HashMap+Sort/DFS)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/1048.%20Longest%20String%20Chain.md)
+#### [1051. Height Checker(Bucket Sort)/(Easy)](https://github.com/hungrylz/leetcode/blob/master/1051.%20Height%20Checker.md)
 #### [1071. Greatest Common Divisor of Strings(Math/Repeated String)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1071.%20Greatest%20Common%20Divisor%20of%20Strings.md)
 #### [1086. High Five(Sort/HashMap + PriorityQueue)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1086.%20High%20Five.md)
 #### [1099. Two Sum Less Than K(Brute Force/Sort/TreeSet)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1099.%20Two%20Sum%20Less%20Than%20K.md)
