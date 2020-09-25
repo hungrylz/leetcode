@@ -172,6 +172,7 @@
 #### [896. Monotonic Array(Array)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/896.%20Monotonic%20Array.md)
 #### [905. Sort Array By Parity(Two Pointers/Brute Force)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/905.%20Sort%20Array%20By%20Parity.md)
 #### [909. Snakes and Ladders(BFS)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/909.%20Snakes%20and%20Ladders.md)
+#### [934. Shortest Bridge(DFS + BFS)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/934.%20Shortest%20Bridge.md)
 #### [938. Range Sum of BST(DFS(Recursion/Iteration)/Traverse)(EASY))](https://github.com/hungrylz/leetcode/blob/master/938.%20Range%20Sum%20of%20BST.md)
 #### [957. Prison Cells After N Days(Math+Set)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/957.%20Prison%20Cells%20After%20N%20Days.md)
 #### [974. Subarray Sums Divisible by K(BruteForce/Module)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/974.%20Subarray%20Sums%20Divisible%20by%20K.md)
