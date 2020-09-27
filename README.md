@@ -109,6 +109,7 @@
 #### [383. Ransom Note(HashMap/BucketSort)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/383.%20Ransom%20Note.md)
 #### [393. UTF-8 Validation(String/Bit Manipulation)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/393.%20UTF-8%20Validation.md)
 #### [395. Longest Substring with At Least K Repeating Characters(Divide and Conquer/Two pointers)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.md)
+#### [399. Evaluate Division(Graph+DFS/Union-Find)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/399.%20Evaluate%20Division.md)
 #### [401. Binary Watch(Bit Manipulation)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/401.%20Binary%20Watch.md)
 #### [406. Queue Reconstruction by Height(Sort)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/406.%20Queue%20Reconstruction%20by%20Height.md)
 #### [408. Valid Word Abbreviation(Two Pointers)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/408.%20Valid%20Word%20Abbreviation.md)
