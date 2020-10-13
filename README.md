@@ -131,6 +131,7 @@
 #### [408. Valid Word Abbreviation(Two Pointers)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/408.%20Valid%20Word%20Abbreviation.md)
 #### [409. Longest Palindrome(ASCII)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/409.%20Longest%20Palindrome.md)
 #### [414. Third Maximum Number(Heap + Set/ TreeSet/ Three Pointers)/(Easy)](https://github.com/hungrylz/leetcode/blob/master/414.%20Third%20Maximum%20Number.md)
+#### [416. Partition Equal Subset Sum(BruteForce Permutation/DP 0/1 Knapsack)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/416.%20Partition%20Equal%20Subset%20Sum.md)
 #### [417. Pacific Atlantic Water Flow(BFS/DFS)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/417.%20Pacific%20Atlantic%20Water%20Flow.md)
 #### [437. Path Sum III(BruteForce+DFS/HashMap+DFS)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/437.%20Path%20Sum%20III.md)
 #### [438. Find All Anagrams in a String(Array/HashMap)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
