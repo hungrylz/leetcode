@@ -1,5 +1,6 @@
 # LEETCODE NOTEBOOK
 
+#### [1. Two Sum(HashMap)/(Easy)](https://github.com/hungrylz/leetcode/blob/master/1.%20Two%20Sum.md)
 #### [2. Add Two Numbers(Math)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/2.%20Add%20Two%20Numbers.md)
 #### [3. Longest Substring Without Repeating Characters(Slide Window + HashMap(array))/(Medium)](https://github.com/hungrylz/leetcode/blob/master/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 #### [5. Longest Palindromic Substring(Scan/DP)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/5.%20Longest%20Palindromic%20Substring.md)
@@ -86,6 +87,7 @@
 #### [190. Reverse Bits(Bit manipultaion)/(Easy)](https://github.com/hungrylz/leetcode/blob/master/190.%20Reverse%20Bits.md)
 #### [191. Number of 1 Bits(Bit manipulation)/(Easy)](https://github.com/hungrylz/leetcode/blob/master/191.%20Number%20of%201%20Bits.md)
 #### [199. Binary Tree Right Side View(BFS/DFS)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/199.%20Binary%20Tree%20Right%20Side%20View.md)
+#### [200. Number of Islands(BFS/DFS/UnionFind)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/200.%20Number%20of%20Islands.md)
 #### [205. Isomorphic Strings(HashMap/ASCII)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/205.%20Isomorphic%20Strings.md)
 #### [207. Course Schedule(Topological Sort + BFS + Indegree / Topological Sort + DFS)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/207.%20Course%20Schedule.md)
 #### [208. Implement Trie (Prefix Tree)(Trie)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/208.%20Implement%20Trie%20(Prefix%20Tree).md)
