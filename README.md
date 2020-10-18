@@ -24,6 +24,7 @@
 #### [35. Search Insert Position(BinarySearch)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/35.%20Search%20Insert%20Position.md)
 #### [36. Valid Sudoku(BruteForce)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/36.%20Valid%20Sudoku.md)
 #### [39. Combination Sum(DFS)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/39.%20Combination%20Sum.md)
+#### [42. Trapping Rain Water(Stack/Two Pointers)/(Hard)](https://github.com/hungrylz/leetcode/blob/master/42.%20Trapping%20Rain%20Water.md)
 #### [43. Multiply Strings(Math)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/43.%20Multiply%20Strings.md)
 #### [45. Jump Game II(Brute Force/DP)/(HARD)](https://github.com/hungrylz/leetcode/blob/master/45.%20Jump%20Game%20II.md)
 #### [46. Permutations(BackTracking)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/46.%20Permutations.md)
