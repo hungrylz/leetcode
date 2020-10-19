@@ -207,6 +207,7 @@
 #### [907. Sum of Subarray Minimums(BruteForce/Monotonic Stack)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/907.%20Sum%20of%20Subarray%20Minimums.md)
 #### [909. Snakes and Ladders(BFS)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/909.%20Snakes%20and%20Ladders.md)
 #### [934. Shortest Bridge(DFS + BFS)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/934.%20Shortest%20Bridge.md)
+#### [937. Reorder Data in Log Files(Comparator)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/937.%20Reorder%20Data%20in%20Log%20Files.md)
 #### [938. Range Sum of BST(DFS(Recursion/Iteration)/Traverse)(EASY))](https://github.com/hungrylz/leetcode/blob/master/938.%20Range%20Sum%20of%20BST.md)
 #### [946. Validate Stack Sequences(Stack/No stack)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/946.%20Validate%20Stack%20Sequences.md)
 #### [957. Prison Cells After N Days(Math+Set)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/957.%20Prison%20Cells%20After%20N%20Days.md)
