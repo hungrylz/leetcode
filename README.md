@@ -71,6 +71,7 @@
 #### [139. Word Break(DP)/(Medium)](https://leetcode.com/problems/word-break/)
 #### [142. Linked List Cycle II(Two Pointers)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/142.%20Linked%20List%20Cycle%20II.md)
 #### [143. Reorder List(Reverse+Merge)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/143.%20Reorder%20List.md)
+#### [146. LRU Cache(HashMap + DoubleLinkedList)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/146.%20LRU%20Cache.md)
 #### [148. Sort List(HeapSort/MergeSort)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/148.%20Sort%20List.md)
 #### [150. Evaluate Reverse Polish Notation(Stack)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
 #### [152. Maximum Product Subarray(Brute Force/DP/Math)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/152.%20Maximum%20Product%20Subarray.md)
