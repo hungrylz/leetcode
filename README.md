@@ -213,6 +213,7 @@
 #### [938. Range Sum of BST(DFS(Recursion/Iteration)/Traverse)(EASY))](https://github.com/hungrylz/leetcode/blob/master/938.%20Range%20Sum%20of%20BST.md)
 #### [946. Validate Stack Sequences(Stack/No stack)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/946.%20Validate%20Stack%20Sequences.md)
 #### [957. Prison Cells After N Days(Math+Set)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/957.%20Prison%20Cells%20After%20N%20Days.md)
+#### [973. K Closest Points to Origin(Heap sort/ QuickSort Partition)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/973.%20K%20Closest%20Points%20to%20Origin.md)
 #### [974. Subarray Sums Divisible by K(BruteForce/Module)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/974.%20Subarray%20Sums%20Divisible%20by%20K.md)
 #### [977. Squares of a Sorted Array(Two Pointers/Sort)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/977.%20Squares%20of%20a%20Sorted%20Array.md)
 #### [981. Time Based Key-Value Store(HashMap+BinarySearch/TreeMap)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/981.%20Time%20Based%20Key-Value%20Store.md)
