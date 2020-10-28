@@ -3,6 +3,7 @@
 #### [1. Two Sum(HashMap)/(Easy)](https://github.com/hungrylz/leetcode/blob/master/1.%20Two%20Sum.md)
 #### [2. Add Two Numbers(Math)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/2.%20Add%20Two%20Numbers.md)
 #### [3. Longest Substring Without Repeating Characters(Slide Window + HashMap(array))/(Medium)](https://github.com/hungrylz/leetcode/blob/master/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
+#### [4. Median of Two Sorted Arrays(BruteForce/ BinarySearch)/(Hard)](https://github.com/hungrylz/leetcode/blob/master/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
 #### [5. Longest Palindromic Substring(Scan/DP)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/5.%20Longest%20Palindromic%20Substring.md)
 #### [6. ZigZag Conversion(Math)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/6.%20ZigZag%20Conversion.md)
 #### [8. String to Integer (atoi)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/8.%20String%20to%20Integer%20(atoi).md)
