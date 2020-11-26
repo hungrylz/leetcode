@@ -70,7 +70,7 @@
 #### [133. Clone Graph(Graph/DFS/BFS)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/133.%20Clone%20Graph.md)
 #### [134. Gas Station(BruteForce/One Pass)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/134.%20Gas%20Station.md)
 #### [137. Single Number II(Bit Manipulation)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/137.%20Single%20Number%20II.md)
-#### [139. Word Break(DP)/(Medium)](https://leetcode.com/problems/word-break/)
+#### [139. Word Break(DP)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/139.%20Word%20Break.md)
 #### [142. Linked List Cycle II(Two Pointers)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/142.%20Linked%20List%20Cycle%20II.md)
 #### [143. Reorder List(Reverse+Merge)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/143.%20Reorder%20List.md)
 #### [146. LRU Cache(HashMap + DoubleLinkedList)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/146.%20LRU%20Cache.md)
