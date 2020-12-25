@@ -62,6 +62,7 @@
 #### [112. Path Sum(Iteration/Recursion)/(EASY)](https://github.com/hungrylz/leetcode/blob/master/112.%20Path%20Sum.md)
 #### [113. Path Sum II(DFS/To be continued)/(MEDIUM)](https://github.com/hungrylz/leetcode/blob/master/113.%20Path%20Sum%20II.md)
 #### [114. Flatten Binary Tree to Linked List(List/Stack/DFS/PostOrder)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)
+#### [115. Distinct Subsequences(DP)/(Hard)](https://github.com/hungrylz/leetcode/blob/master/115.%20Distinct%20Subsequences.md)
 #### [116. Populating Next Right Pointers in Each Node(BFS/Recursion)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
 #### [120. Triangle(DP(Bottom up/top down))/(Medium)](https://github.com/hungrylz/leetcode/blob/master/120.%20Triangle.md)
 #### [122. Best Time to Buy and Sell Stock II(State Machine/Math)/(Easy)](https://github.com/hungrylz/leetcode/blob/master/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
