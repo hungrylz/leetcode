@@ -280,6 +280,7 @@
 #### [1304. Find N Unique Integers Sum up to Zero](https://github.com/hungrylz/leetcode/blob/master/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.md)
 #### [1312. Minimum Insertion Steps to Make a String Palindrome(DP(Palindrome String Reverse))/(Hard)](https://github.com/hungrylz/leetcode/blob/master/1312.%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome.md)
 #### [1313. Decompress Run-Length Encoded List/(EASY)](https://github.com/hungrylz/leetcode/blob/master/1313.%20Decompress%20Run-Length%20Encoded%20List.md)
+#### [1328. Break a Palindrome(Math)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/1328.%20Break%20a%20Palindrome.md)
 #### [1335. Minimum Difficulty of a Job Schedule(DP)/(Hard)](https://github.com/hungrylz/leetcode/blob/master/1335.%20Minimum%20Difficulty%20of%20a%20Job%20Schedule.md)
 #### [1344. Angle Between Hands of a Clock(Math)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.md)
 #### [1360. Number of Days Between Two Dates/(Easy)](https://github.com/hungrylz/leetcode/blob/master/1360.%20Number%20of%20Days%20Between%20Two%20Dates.md)
