@@ -292,3 +292,4 @@
 #### [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit(Heap/TreeMap/Deque)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit.md)
 #### [1470. Shuffle the Array(BruteForce/In-place)/(Easy)](https://github.com/hungrylz/leetcode/blob/master/1470.%20Shuffle%20the%20Array.md)
 #### [1480. Running Sum of 1d Array(StraightForward)/(Easy)](https://github.com/hungrylz/leetcode/blob/master/1480.%20Running%20Sum%20of%201d%20Array.md)
+#### [1648. Sell Diminishing-Valued Colored Balls(Math)/(Medium)](https://github.com/hungrylz/leetcode/blob/master/1648.%20Sell%20Diminishing-Valued%20Colored%20Balls.md)
